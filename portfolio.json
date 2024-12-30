@@ -1,0 +1,43 @@
+[
+{"type":"header","version":"4.7.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"portfolio"},
+{"type":"table","name":"contacts","database":"portfolio","data":
+[
+{"id":"1","name":"Michael","email":"m@email.com","message":"Hey I need to talk with you buddy","created_at":"2024-10-05 22:09:04"},
+{"id":"3","name":"Md. Sahabul","email":"gdemo258@gmail.com","message":"hi","created_at":"2024-10-05 22:29:36"},
+{"id":"4","name":"Md. Sahabul","email":"gdemo258@gmail.com","message":"hi","created_at":"2024-10-05 22:30:35"},
+{"id":"5","name":"Md. Sahabul","email":"gdemo258@gmail.com","message":"hi","created_at":"2024-10-05 22:30:38"},
+{"id":"6","name":"Faysal","email":"faysal@email.com","message":"Hi","created_at":"2024-10-06 23:07:57"},
+{"id":"7","name":"John wick","email":"d@email.com","message":"hi","created_at":"2024-10-19 01:41:02"}
+]
+}
+,{"type":"table","name":"projects","database":"portfolio","data":
+[
+{"id":"1","title":"asdfs","description":"afda","image":"400px-WarOfLiberationVictoryDay.jpg"},
+{"id":"2","title":"daf","description":"adfdf","image":"12472476_980623841991037_6406794591088059766_n-removebg-preview.png"},
+{"id":"3","title":"asdf","description":"sadf","image":"1724768658446.png"},
+{"id":"4","title":"adfad","description":"afdasdf","image":"Basic 360hours social welfare.jpg"},
+{"id":"5","title":"asdfaew","description":"sdfsdafafd","image":"400px-WarOfLiberationVictoryDay.jpg"},
+{"id":"6","title":"dasf","description":"sadfaweawe","image":"ojasjfdogfdi.jpg"},
+{"id":"7","title":"wsfaeweraew","description":"adsfasdfaerfawe","image":"1724768658446.png"},
+{"id":"8","title":"jhdfg","description":"ragaedaerfg","image":"12472476_980623841991037_6406794591088059766_n-removebg-preview.png"},
+{"id":"9","title":"Sorry","description":"This is sorry to my belove","image":"Screenshot 2024-08-20 165443.png"},
+{"id":"10","title":"\u00f0\u0178\u00a5\u00b0\u00f0\u0178\u00a5\u00b0\u00f0\u0178\u00a5\u00b0\u00f0\u0178\u00a5\u00b0\u00f0\u0178\u00a5\u00b0","description":"I love my Beloved so much","image":"Screenshot 2024-08-20 165443.png"},
+{"id":"11","title":"this is demo","description":"a demo","image":"IMG_20221223_162903_850-1-min.jpg"},
+{"id":"12","title":"adfsdf","description":"sdfsadf","image":"c283d6aabdaae406b19d9f04897dde0f.jpg"}
+]
+}
+,{"type":"table","name":"testimonials","database":"portfolio","data":
+[
+{"id":"1","name":"Adam Jack","image":"person_man_2.jpg","testimonial":"Sahabul is a great guy. He knows design to well. Nice to work with him"},
+{"id":"2","name":"Michael Smith","image":"person_man_1.jpg","testimonial":"Sahabul is good at creating responsive web design file. I enjoyed work with him. Such a nice and kind guy."},
+{"id":"3","name":"Jack","image":"person_man_3.jpg","testimonial":"Sahabul is great at web development. I really enjoyed able to team work with him."},
+{"id":"4","name":"Alexa","image":"person_woman_1.jpg","testimonial":"working with you is good"}
+]
+}
+,{"type":"table","name":"users","database":"portfolio","data":
+[
+{"id":"1","username":"devsahabul@gmail.com","password":"$2y$10$B\/jgzJqdzq.Y7xWEL3Uk4epsZfMPyTnHMMequrxmWvh43BoKThI6e"}
+]
+}
+]
